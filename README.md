@@ -3,5 +3,5 @@
 ```
 git clone https://github.com/CyberDemon404/FILE-X
 cd FILE-X
-python fila.py
+python s21_.py
 ```
